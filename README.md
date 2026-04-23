@@ -39,3 +39,7 @@
 
 # ros2 launch fish_cutting_demo execute_cut.launch.py
 
+#run order 
+# python3 handeye_collect.py
+# python3 handeye_solve.py
+# python3 handeye_verify.py
